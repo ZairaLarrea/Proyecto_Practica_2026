@@ -16,9 +16,13 @@ Año:
 
 Autor:
 
-Zaira Larrea 
+Zaira Larrea
 
-Email: 46067685@populorumjujuy.ar  
+Email: 46067685@populorumjujuy.ar
 
-GitHub: ZairaLarrea 
+GitHub: ZairaLarrea
+
+
+
+Proyecto de práctica para la materia Git.
 
