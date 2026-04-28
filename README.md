@@ -68,3 +68,99 @@ El sistema permitirá registrar productos, gestionar stock, controlar fechas de 
 
 
 
+Cronograma de actividades
+
+
+
+\- Semana 1: Análisis del problema en comercios y comedores.
+
+\- Semana 2: Diseño del sistema de gestión de alimentos.
+
+\- Semana 3: Desarrollo del control de stock y vencimientos.
+
+\- Semana 4: Pruebas del sistema y correcciones.
+
+
+
+
+
+
+
+Estudio de factibilidad
+
+
+
+&#x20;Factibilidad Técnica
+
+El sistema puede desarrollarse utilizando herramientas como lenguajes de programación básicos y Git. No requiere tecnologías complejas, por lo que es viable técnicamente.
+
+
+
+&#x20;Factibilidad Económica
+
+El proyecto no implica costos elevados, ya que se utilizan herramientas gratuitas y recursos disponibles, lo que lo hace económicamente accesible.
+
+
+
+&#x20;Factibilidad Operativa
+
+El sistema será fácil de usar para los encargados de comercios o comedores, permitiendo una rápida adaptación sin necesidad de capacitación avanzada.
+
+
+
+
+
+
+
+Requerimientos
+
+
+
+Requisitos Generales
+
+\- El sistema debe ser fácil de usar.
+
+\- Debe permitir una gestión organizada de los alimentos.
+
+\- Debe brindar información clara y accesible.
+
+
+
+Requisitos Funcionales
+
+\- Registrar productos alimenticios.
+
+\- Controlar el stock en tiempo real.
+
+\- Detectar productos próximos a vencer.
+
+\- Generar reportes para la toma de decisiones.
+
+
+
+
+
+
+
+Detalle de los ítems
+
+
+
+El cronograma está organizado en etapas semanales que permiten avanzar de forma ordenada en el desarrollo del sistema.
+
+
+
+La factibilidad técnica se basa en el uso de herramientas accesibles y conocimientos adquiridos en la materia.
+
+
+
+Desde el punto de vista económico, el proyecto es viable ya que no requiere inversión en software pago.
+
+
+
+Operativamente, el sistema será intuitivo y permitirá mejorar la organización en la gestión de alimentos.
+
+
+
+Los requerimientos funcionales están orientados a resolver los problemas detectados, como la falta de control de stock y vencimientos.
+
