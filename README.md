@@ -164,3 +164,31 @@ Operativamente, el sistema será intuitivo y permitirá mejorar la organización
 
 Los requerimientos funcionales están orientados a resolver los problemas detectados, como la falta de control de stock y vencimientos.
 
+
+
+
+
+
+
+
+
+Script de cálculo de edad
+
+
+
+Se incluye un script en Python que permite calcular la edad de una persona a partir de su fecha de nacimiento.
+
+
+
+Cómo ejecutarlo
+
+1\. Tener Python instalado.
+
+2\. Abrir la terminal en la carpeta del proyecto.
+
+3\. Ejecutar:
+
+
+
+python edad.py
+
