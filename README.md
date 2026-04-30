@@ -190,5 +190,6 @@ Cómo ejecutarlo
 
 
 
-python edad.py: (./edad.py)
+python edad.py:
+https://github.com/ZairaLarrea/Proyecto_Practica_2026/blob/7f7bdc1534a05b3bb422cbf0f42d9bf321f9e0f4/edad.py
 
